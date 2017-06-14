@@ -1,0 +1,10 @@
+name: AdvancedCombatTag
+author: BullCheat
+main: eu.BullCheat.AdvancedCombatTag.AdvancedCombatTag
+version: 1.0
+depend: [BullLIB]
+commands:
+  advancedcombattag:
+    description: Edit settings
+    aliases: [act]
+    permission: combat.admin
