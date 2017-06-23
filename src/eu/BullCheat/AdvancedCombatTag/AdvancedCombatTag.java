@@ -6,7 +6,7 @@ import eu.BullCheat.AdvancedCombatTag.Events.EventCombatPlayerBegin;
 import eu.BullCheat.AdvancedCombatTag.Events.EventCombatPlayerEnd;
 import eu.BullCheat.BullLIB.BullLIB;
 import eu.BullCheat.net.cubespace.Yamler.Config.InvalidConfigurationException;
-import fr.HeyFactions.Packets.CooldownsPacket;
+import fr.HeyFactions.Global.Packets.CooldownsPacket;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
